@@ -1,7 +1,7 @@
 {
-"cpu": "Snapdragon 800",
-"ram": "3GB LPDDR3",
-"display": "Super AMOLED 5.7\" 1080p",
-"battery": 3200,
-"camera": "13Mpx + 2Mpx"
+    "cpu": "Snapdragon 800",
+    "ram": "3GB LPDDR3",
+    "display": "Super AMOLED 5.7\" 1080p",
+    "battery": 3200,
+    "camera": "13Mpx + 2Mpx"
 }

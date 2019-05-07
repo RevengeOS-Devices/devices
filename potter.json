@@ -1,7 +1,7 @@
 {
-"cpu": "Snapdragon 625",
-"ram": "4 GB",
-"display": "IPS 5.2\" 1080p",
-"battery": 3000,
-"camera": "12Mpx + 5Mpx"
+    "cpu": "Snapdragon 625",
+    "ram": "4 GB",
+    "display": "IPS 5.2\" 1080p",
+    "battery": 3000,
+    "camera": "12Mpx + 5Mpx"
 }

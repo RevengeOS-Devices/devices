@@ -1,7 +1,7 @@
 {
-"cpu": "Snapdragon 835",
-"ram": "6GB LPDDR4X",
-"display": "IPS 5.15\" 1080p",
-"battery": 3350,
-"camera": "12Mpx 12Mpx + 8Mpx"
+    "cpu": "Snapdragon 835",
+    "ram": "6GB LPDDR4X",
+    "display": "IPS 5.15\" 1080p",
+    "battery": 3350,
+    "camera": "12Mpx 12Mpx + 8Mpx"
 }

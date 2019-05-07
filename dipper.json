@@ -1,7 +1,7 @@
 {
-"cpu": "Snapdragon 845",
-"ram": "6 GB",
-"display": "IPS 6.21\" 1080p",
-"battery": 3400,
-"camera": "12Mpx + 12Mpx"
+    "cpu": "Snapdragon 845",
+    "ram": "6 GB",
+    "display": "IPS 6.21\" 1080p",
+    "battery": 3400,
+    "camera": "12Mpx + 12Mpx"
 }

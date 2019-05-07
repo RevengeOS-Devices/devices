@@ -1,7 +1,7 @@
 {
-"cpu": "Snapdragon 650",
-"ram": "2/3 GB LPDDR3",
-"display": "IPS 5.5\" 1080p",
-"battery": 4050,
-"camera": "16Mpx + 5Mpx"
+    "cpu": "Snapdragon 650",
+    "ram": "2/3 GB LPDDR3",
+    "display": "IPS 5.5\" 1080p",
+    "battery": 4050,
+    "camera": "16Mpx + 5Mpx"
 }

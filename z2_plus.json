@@ -1,8 +1,8 @@
 {
-"cpu": "Snapdragon 820",
-"ram": "3/4GB LPDDR4",
-"display": "IPS 5\" 1080p",
-"battery": 3500,
-"camera": "13Mpx + 8Mpx"
+    "cpu": "Snapdragon 820",
+    "ram": "3/4GB LPDDR4",
+    "display": "IPS 5\" 1080p",
+    "battery": 3500,
+    "camera": "13Mpx + 8Mpx"
 }
 
